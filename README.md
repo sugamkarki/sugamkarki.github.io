@@ -1,8 +1,13 @@
-# React + Vite
+<div style="display:flex;align-items:center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=sugamkarki&show_icons=true&theme=material-palenight&count_private=true&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamkarki&show_icons=true&theme=material-palenight&hide_border=true&layout=compact" />
+  </a>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Snake animation](https://github.com/sugamkarki/sugamkarki/blob/output/github-contribution-grid-snake.svg)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sugamkarki&" alt="sugamkarki" /></p>
